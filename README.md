@@ -5,9 +5,9 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Kandy, Sri Lanka
-* ✉️  You can contact me at [geevinda831@gmail.com](mailto:geevinda831@gmail.com)
-* 🚀  I'm currently working on [TechPlanet Computer Spare Parts Management System](http://TechPlanet)
-* 🧠  I'm learning React and Kotlin
+* ✉️  You can contact me at [malithgeevindagunawardhana@gmail.com](mailto:geevinda831@gmail.com)
+* 🚀  I'm currently working on [devSynergy](http://devSynergy)
+* 🧠  I'm learning Python, ML and Java Script 
 
 <a href="https://www.github.com/it21289798" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/it21289798?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/malithgeevinda" target="_blank" rel="noreferrer"><img
